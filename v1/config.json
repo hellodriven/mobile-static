@@ -19,5 +19,21 @@
         "activities/553",
         "activities/595",
         "activities/496"
+    ],
+    "prefetchImages": [
+        "https://hellodriven.github.io/mobile-static/v1/images/1007.jpg",
+        "https://hellodriven.github.io/mobile-static/v1/images/1089.jpg",
+        "https://hellodriven.github.io/mobile-static/v1/images/1124.jpg",
+        "https://hellodriven.github.io/mobile-static/v1/images/1172.jpg",
+        "https://hellodriven.github.io/mobile-static/v1/images/1286.jpg",
+        "https://hellodriven.github.io/mobile-static/v1/images/1301.jpg",
+        "https://hellodriven.github.io/mobile-static/v1/images/693.jpg",
+        "https://hellodriven.github.io/mobile-static/v1/images/813.jpg",
+        "https://hellodriven.github.io/mobile-static/v1/images/846.jpg",
+        "https://hellodriven.github.io/mobile-static/v1/images/847.jpg",
+        "https://hellodriven.github.io/mobile-static/v1/images/848.jpg",
+        "https://hellodriven.github.io/mobile-static/v1/images/849.jpg",
+        "https://hellodriven.github.io/mobile-static/v1/images/850.jpg",
+        "https://hellodriven.github.io/mobile-static/v1/images/901.jpg",
     ]
 }
