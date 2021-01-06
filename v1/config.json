@@ -19,6 +19,36 @@
         "activities/553",
         "activities/595"
     ],
+    "prefetchIcons": [
+        {
+            "categoryColor": "#00bfd8",
+            "url": "https://hellodriven.github.io/mobile-static/v1/icons/iconPrimary.png"
+        },
+        {
+            "categoryColor": "#f2384f",
+            "url": "https://hellodriven.github.io/mobile-static/v1/icons/iconRed.png"
+        },
+        {
+            "categoryColor": "#ff7d37",
+            "url": "https://hellodriven.github.io/mobile-static/v1/icons/iconOrange.png"
+        },
+        {
+            "categoryColor": "#00bfd8",
+            "url": "https://hellodriven.github.io/mobile-static/v1/icons/iconYellow.png"
+        },
+        {
+            "categoryColor": "#54b554",
+            "url": "https://hellodriven.github.io/mobile-static/v1/icons/iconGreen.png"
+        },
+        {
+            "categoryColor": "#4abaca",
+            "url": "https://hellodriven.github.io/mobile-static/v1/icons/iconCyan.png"
+        },
+        {
+            "categoryColor": "#407fe8",
+            "url": "https://hellodriven.github.io/mobile-static/v1/icons/iconBlue.png"
+        }
+    ],
     "prefetchImages": [
         {
             "id": 1007,
