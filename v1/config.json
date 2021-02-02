@@ -5,8 +5,7 @@
         "activities/833",
         "activities/449",
         "activities/450",
-        "activities/739",
-        "activities/964"
+        "activities/739"
     ],
     "dynamicListPages": [
         "activities/265",
@@ -19,7 +18,8 @@
         "activities/511",
         "activities/553",
         "activities/595",
-        "activities/740"
+        "activities/740",
+        "activities/964"
     ],
     "prefetchIcons": [
         {
