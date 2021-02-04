@@ -1,11 +1,9 @@
 {
     "staticListPages": [
-        "activities/775",
         "activities/652",
         "activities/833",
         "activities/449",
-        "activities/450",
-        "activities/739"
+        "activities/450"
     ],
     "dynamicListPages": [
         "activities/265",
