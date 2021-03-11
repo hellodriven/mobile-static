@@ -1,4 +1,6 @@
 {
+    "latestAndroidVersion": "1.4.0",
+    "latestIosVersion": "1.4.0",
     "staticListPages": [
         "activities/652",
         "activities/833",
