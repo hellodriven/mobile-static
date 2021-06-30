@@ -9,20 +9,6 @@
         "activities/450"
     ],
     "dynamicListPages": [
-        "activities/265",
-        "activities/183",
-        "activities/229",
-        "activities/295",
-        "activities/327",
-        "activities/357",
-        "activities/460",
-        "activities/511",
-        "activities/553",
-        "activities/595",
-        "activities/740",
-        "activities/1041"
-    ],
-    "listPages": [
         {
             "navKey": "activities/265"
         },
