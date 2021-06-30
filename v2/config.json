@@ -1,0 +1,97 @@
+{
+    "latestAndroidVersion": "2.0.0",
+    "latestIosVersion": "2.0.0",
+    "apiDomain": "hell4.com",
+    "staticListPages": [
+        "activities/652",
+        "activities/833",
+        "activities/449",
+        "activities/450"
+    ],
+    "dynamicListPages": [
+        "activities/265",
+        "activities/183",
+        "activities/229",
+        "activities/295",
+        "activities/327",
+        "activities/357",
+        "activities/460",
+        "activities/511",
+        "activities/553",
+        "activities/595",
+        "activities/740",
+        "activities/1041"
+    ],
+    "listPages": [
+        {
+            "navKey": "activities/265"
+        },
+        {
+            "navKey": "activities/183"
+        },
+        {
+            "navKey": "activities/229"
+        },
+        {
+            "navKey": "activities/295"
+        },
+        {
+            "navKey": "activities/327"
+        },
+        {
+            "navKey": "activities/357"
+        },
+        {
+            "navKey": "activities/460"
+        },
+        {
+            "navKey": "activities/511"
+        },
+        {
+            "navKey": "activities/553"
+        },
+        {
+            "navKey": "activities/595"
+        },
+        {
+            "navKey": "activities/740"
+        },
+        {
+            "navKey": "activities/1041"
+        },
+        {
+            "navKey": "activities/1041",
+            "windowSize": 5
+        }
+    ],
+    "prefetchIcons": [
+        {
+            "categoryColor": "#00bfd8",
+            "url": "https://hellodriven.github.io/mobile-static/v1/icons/iconPrimary.png"
+        },
+        {
+            "categoryColor": "#f2384f",
+            "url": "https://hellodriven.github.io/mobile-static/v1/icons/iconRed.png"
+        },
+        {
+            "categoryColor": "#ff7d37",
+            "url": "https://hellodriven.github.io/mobile-static/v1/icons/iconOrange.png"
+        },
+        {
+            "categoryColor": "#f2ba0f",
+            "url": "https://hellodriven.github.io/mobile-static/v1/icons/iconYellow.png"
+        },
+        {
+            "categoryColor": "#54b554",
+            "url": "https://hellodriven.github.io/mobile-static/v1/icons/iconGreen.png"
+        },
+        {
+            "categoryColor": "#4abaca",
+            "url": "https://hellodriven.github.io/mobile-static/v1/icons/iconCyan.png"
+        },
+        {
+            "categoryColor": "#407fe8",
+            "url": "https://hellodriven.github.io/mobile-static/v1/icons/iconBlue.png"
+        }
+    ]
+}
