@@ -82,7 +82,7 @@
             "url": "https://hellodriven.github.io/mobile-static/v1/icons/iconBlue.png"
         }
     ],
-    "chatLoadingMessage": [
+    "chatLoadingMessages": [
         {
             "message": "Please wait...",
             "time": 8000
