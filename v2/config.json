@@ -81,5 +81,27 @@
             "categoryColor": "#407fe8",
             "url": "https://hellodriven.github.io/mobile-static/v1/icons/iconBlue.png"
         }
+    ],
+    "chatLoadingMessage": [
+        {
+            "message": "Please wait...",
+            "time": 8000
+        },
+        {
+            "message": "Sorry for the delay!",
+            "time": 14000
+        },
+        {
+            "message": "",
+            "time": 20000
+        },
+        {
+            "message": "This is taking longer than expected.",
+            "time": 26000
+        },
+        {
+            "message": "Something is probably wrong with our servers.",
+            "time": 32000
+        }
     ]
 }
