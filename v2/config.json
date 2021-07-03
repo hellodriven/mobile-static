@@ -92,15 +92,15 @@
             "time": 14000
         },
         {
-            "message": "",
+            "message": "😬",
             "time": 20000
         },
         {
-            "message": "This is taking longer than expected.",
+            "message": "🤔 This is taking longer than expected.",
             "time": 26000
         },
         {
-            "message": "Something is probably wrong with our servers.",
+            "message": "😓 Something might be wrong with our servers.",
             "time": 32000
         }
     ]
