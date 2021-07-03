@@ -88,7 +88,7 @@
             "time": 8000
         },
         {
-            "message": "Sorry for the delay!",
+            "message": "😅 Sorry for the delay!",
             "time": 14000
         },
         {
@@ -100,7 +100,7 @@
             "time": 26000
         },
         {
-            "message": "😓 Something might be wrong with our servers.",
+            "message": "😓 Something's wrong with our servers.",
             "time": 32000
         }
     ]
