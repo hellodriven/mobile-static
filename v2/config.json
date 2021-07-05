@@ -84,7 +84,7 @@
     ],
     "chatLoadingMessages": [
         {
-            "message": "Please wait...",
+            "message": "Hold on...",
             "time": 8000
         },
         {
